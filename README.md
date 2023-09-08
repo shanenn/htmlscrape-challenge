@@ -7,7 +7,8 @@ This repository contains the script to open and scrape mars data from:
 
 Contains:
   - part_1_mars_news.ipynb: jupyter notebook to scrape and store titles and previews from mars_new/index.html
-  - part_2_mars_weather.ipynb: jupyter notebook to scrape, store, and analyze mars weather data from a constructed and saved csv file
+  - part_2_mars_weather.ipynb: jupyter notebook to scrape, store, and analyze mars weather data from from mars_facts/temperature.html
+      - saves a csv file of constructed dataframe which corresponds to mars weather data used for analysis
   - mars_temp.csv: resulting csv from part_2_mars_weather.ipynb
 
 Ran with:
